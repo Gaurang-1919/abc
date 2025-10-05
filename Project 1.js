@@ -1,5 +1,5 @@
 const buttons = document.querySelectorAll('.button');
-const body = document.querySelector('body');
+const bod = document.querySelector('body');
 
 buttons.forEach(function (button) {
   console.log(button);
@@ -27,7 +27,7 @@ buttons.forEach(function (button) {
 
 // by using switch case
 
-const buttons = document.querySelectorAll(".button")
+const button = document.querySelectorAll(".button")
 const body = document.querySelector("body")
 
 buttons.forEach((button) => {
